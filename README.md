@@ -1,7 +1,7 @@
 # JS Turtle
 
 ## Background 
-[Turtle graphics](https://en.wikipedia.org/wiki/Turtle_graphics) are vector graphics using a relative cursor (the "turtle") upon a Cartesian plane (x and y axis). 
+[Turtle graphics](https://en.wikipedia.org/wiki/Turtle_graphics) are vector graphics using a relative cursor (the "turtle") upon a Cartesian plane (x and y axis) 
 
 This program is an environment to learn/teach programming with JavaScript language. Idea initialy comes from [Seymour Papert](http://www.papert.org/). Javascript version of turtle graphycs initialy started by  [bjpop](https://github.com/bjpop), than forked and developed and documented by [hanumanum](https://github.com/hanumanum). This version has been further modified by (philbowman)[https://github.com/philbowman]. [GitHub Repository is here](https://github.com/cs-acs/js-turtle).
 
